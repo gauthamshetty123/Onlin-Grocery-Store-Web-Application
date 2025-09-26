@@ -1,2 +1,2 @@
-# Onlin Grocery Store Web Application
+# Online Grocery Store Web Application
 
